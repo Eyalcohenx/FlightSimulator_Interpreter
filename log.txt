@@ -1,0 +1,62 @@
+commit bd2c79441c36e402e159355f4d631594d0bf63fb
+Author: Michael Isjaki <michaelitzhaki@gmail.com>
+Date:   Sun Dec 16 03:39:45 2018 +0200
+
+    finished with script
+
+commit 22f93fc5c1a6cbc26966b7c98e591bc9ec7a3e5a
+Author: Michael Isjaki <michaelitzhaki@gmail.com>
+Date:   Wed Dec 12 05:22:14 2018 +0200
+
+    updated readme
+
+commit 3ed7b6fd073c8aa2325a0e2f96116fd999ebc049
+Author: Michael Isjaki <michaelitzhaki@gmail.com>
+Date:   Wed Dec 12 05:09:03 2018 +0200
+
+    removed redundant ajax requests file (duplicate with routes)
+
+commit 8af083ba7512e8c9d1fa483aa1a553aa4338e7f4
+Merge: 2ae9d87 e1dc412
+Author: Michael Isjaki <michaelitzhaki@gmail.com>
+Date:   Wed Dec 12 05:00:53 2018 +0200
+
+    Merge branch 'master' of https://bitbucket.org/Michael4123/travian
+    
+    This merge is necessary because I need to push new files and they are blocked
+
+commit 2ae9d87fb201a7be5ec6caefbc2b90d8a0aef461
+Author: Michael Isjaki <michaelitzhaki@gmail.com>
+Date:   Wed Dec 12 05:00:22 2018 +0200
+
+    added waves script, currently sending from only two threads
+
+commit e1dc4129bbeee32a344c12a78cb77ad360a00315
+Author: Michael <michaelitzhaki@gmail.com>
+Date:   Mon Dec 10 13:05:37 2018 +0200
+
+    updated lists ids
+
+commit 8d39a93b5deb0d82343dcc90cdda3ee7c3de2228
+Author: Michael Isjaki <michaelitzhaki@gmail.com>
+Date:   Sat Dec 8 02:11:17 2018 +0200
+
+    added git ignore, updated some routes
+
+commit beafdfb7cd0af32bd11246bacd007d4107d4a71a
+Author: Michael Isjaki <michaelitzhaki@gmail.com>
+Date:   Fri Nov 2 04:52:53 2018 +0200
+
+    Added ajax requests to make routes
+
+commit beaab31f13cbddb46f21413cfef8bd7e4edee430
+Author: Michael Isjaki <michaelitzhaki@gmail.com>
+Date:   Mon Oct 29 23:52:14 2018 +0200
+
+    Initial commit - all files are in
+
+commit 5a4a7af70dcbf8c709cf074369ced627f748d5aa
+Author: Michael Isjaki <michaelitzhaki@gmail.com>
+Date:   Mon Oct 29 21:48:22 2018 +0000
+
+    Initial commit
